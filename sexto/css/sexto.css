@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(231,230,225);
+    margin-left: 38%;
+}
+
+
+
+#primero{
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#segundo{
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+}

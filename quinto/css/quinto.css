@@ -1,0 +1,36 @@
+.centrado{
+    margin-left: 25%;
+
+}
+
+
+
+#segunda{
+    color: red;
+    font-weight: bold;
+}
+
+#quinta{
+    color:blue;
+    font-weight: bold;
+}
+
+#cuarta{
+    font-size: 30px
+    ; font-weight: bold;
+}
+
+#primera{
+    text-decoration: underline
+    ; color: green;
+}
+
+#sexta{
+    text-decoration: underline; 
+    color: red;
+    font-weight: bolder;
+}
+
+#tercera{
+    text-decoration: underline overline;
+}
